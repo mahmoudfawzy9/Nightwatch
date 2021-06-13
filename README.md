@@ -1,5 +1,5 @@
 # Nightwatch
-(Task) as a precondition you would need the 'node_modules' folder to placed inside the folder 'nightwatch' at the home directory
+(Task) as a precondition you would need the 'node_modules' folder to be placed inside the folder 'nightwatch' at the home directory
 Steps to run nightwatch: (ubuntu)
 =-=-=-=-=-=-=-=-=-=-=-=
 preconditions: npm, nodejs, visual studio should be installed read doc installing_config_guide
